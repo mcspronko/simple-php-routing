@@ -12,7 +12,7 @@ Pre-requisites:
 1. Clone the repository to your local environment by running the command:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:mcspronko/simple-php-routing.git
 ```
 
 2. Navigate to the `simple-php-routing` directory:
